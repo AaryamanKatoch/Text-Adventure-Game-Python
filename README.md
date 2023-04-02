@@ -49,12 +49,15 @@ Winning Condition - Enter room 0 with exactly three items in inventory
 
 Example step to win:
 Take East from white room
-Pick up the rose
-Take a North from red room
-Pick up sword and shield
-Take a South from green room
-Take a west from red room
-You win
+Pick up the rose - (using get rose)
+Take north from the red room
+Pick up sword and shield ( commands : get sword,
+ get shield)
+Take a west from green room
+pick up berries
+go south from blue room
+drop berries (now you will have 3 items in inventory in white room)
+You won!
 
 
 Losing Condition - entered room 0 or run any command in room 0 five times without 3 items in the inventory

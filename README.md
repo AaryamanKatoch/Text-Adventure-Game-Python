@@ -1,6 +1,6 @@
 1) Aaryaman Katoch    akatoch@stevens.edu
 
-2) Github URL - 
+2) Github URL - https://github.com/AaryamanKatoch/Text-Adventure-Game-Python
 
 3) Hours spent on the project : 15 hours
 
